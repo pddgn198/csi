@@ -1,0 +1,10 @@
+.template.c
+a.exe
+run.bat
+
+.tests/
+.vscode/
+
+*.h.gch
+*.p.c
+*.p.h
