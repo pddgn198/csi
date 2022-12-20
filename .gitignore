@@ -1,6 +1,7 @@
 .template.c
 a.exe
 run.bat
+rename.ps1
 
 .tests/
 .vscode/
